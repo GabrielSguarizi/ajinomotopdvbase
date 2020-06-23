@@ -1,0 +1,1765 @@
+{
+	"Usuarios": {
+		"Ativos": {
+			"ajinomoto": 102,
+			"distribuidor": 356,
+			"total": 458
+		}
+	},
+	"Acessos": {
+		"Acessos": {
+			"ajinomoto": 0.036055143160127253446447508,
+			"distribuidor": 0.0408960367604824813325674899,
+			"total": 0.039708687359112190046818103
+		},
+		"Paginas": {
+			"ajinomoto": 2829,
+			"distribuidor": 8705,
+			"total": 11534
+		},
+		"Dispositivo": {
+			"mobile": {
+				"ajinomoto": 64,
+				"distribuidor": 4499,
+				"total": 4563
+			},
+			"desktop": {
+				"ajinomoto": 2765,
+				"distribuidor": 4206,
+				"total": 6971
+			}
+		},
+		"Evolucao": [{
+			"mesAno": "9/2019",
+			"qtd": 12770
+		}, {
+			"mesAno": "8/2019",
+			"qtd": 12940
+		}, {
+			"mesAno": "7/2019",
+			"qtd": 10524
+		}, {
+			"mesAno": "6/2020",
+			"qtd": 2694
+		}, {
+			"mesAno": "6/2019",
+			"qtd": 7737
+		}, {
+			"mesAno": "5/2020",
+			"qtd": 11534
+		}, {
+			"mesAno": "4/2020",
+			"qtd": 7834
+		}, {
+			"mesAno": "3/2020",
+			"qtd": 16276
+		}, {
+			"mesAno": "2/2020",
+			"qtd": 26733
+		}, {
+			"mesAno": "12/2019",
+			"qtd": 6703
+		}, {
+			"mesAno": "11/2019",
+			"qtd": 8971
+		}, {
+			"mesAno": "10/2019",
+			"qtd": 10286
+		}, {
+			"mesAno": "1/2020",
+			"qtd": 21388
+		}],
+		"Top": {
+			"Usuarios": {
+				"ajinomoto": [{
+					"nome": "Sandra Oliveira",
+					"qtd": 239
+				}, {
+					"nome": "Marcio Maciel",
+					"qtd": 171
+				}, {
+					"nome": "ALEX JULHO DE SOUSA",
+					"qtd": 168
+				}, {
+					"nome": "LINCON FELIX PORTA",
+					"qtd": 109
+				}, {
+					"nome": "CAROLINA HISSANO TAZIMA",
+					"qtd": 107
+				}],
+				"distribuidor": [{
+					"distribuidor": "PROMISSORA",
+					"nome": "Marco Antonio Miranda",
+					"qtd": 278
+				}, {
+					"distribuidor": "LOPES",
+					"nome": "Ernandes Oliveira",
+					"qtd": 261
+				}, {
+					"distribuidor": "LOPES",
+					"nome": "MARIA KARINA SOUZA PENALBER",
+					"qtd": 188
+				}, {
+					"distribuidor": "HAS",
+					"nome": "Mauricio Aoyama",
+					"qtd": 178
+				}, {
+					"distribuidor": "SOLUÇÃO",
+					"nome": "Ana Patricia Oliveira",
+					"qtd": 153
+				}]
+			},
+			"Distribuidores": [{
+				"distribuidor": "LOPES",
+				"qtd": 844
+			}, {
+				"distribuidor": "PROMISSORA",
+				"qtd": 709
+			}, {
+				"distribuidor": "DRS",
+				"qtd": 405
+			}],
+			"Departamentos": [{
+				"departamento": "VENDAS",
+				"qtd": 1725
+			}, {
+				"departamento": "REGIONAL 5",
+				"qtd": 537
+			}, {
+				"departamento": "TRADE MARKETING",
+				"qtd": 519
+			}],
+			"Conteudos": {
+				"ajinomoto": [{
+					"conteudo": "RANKING FATURAMENTO LÍQUIDO FY19",
+					"qtd": 167
+				}, {
+					"conteudo": "Apresentação Trade",
+					"qtd": 68
+				}, {
+					"conteudo": "CONVENÇÃO AJINOMOTO 2020",
+					"qtd": 65
+				}],
+				"distribuidor": [{
+					"conteudo": "RANKING FATURAMENTO LÍQUIDO FY19",
+					"qtd": 367
+				}, {
+					"conteudo": "CONVENÇÃO AJINOMOTO 2020",
+					"qtd": 62
+				}, {
+					"conteudo": "Apresentação Trade",
+					"qtd": 58
+				}],
+				"total": [{
+					"conteudo": "RANKING FATURAMENTO LÍQUIDO FY19",
+					"qtd": 534
+				}, {
+					"conteudo": "CONVENÇÃO AJINOMOTO 2020",
+					"qtd": 127
+				}, {
+					"conteudo": "Apresentação Trade",
+					"qtd": 126
+				}]
+			}
+		}
+	},
+	"Comentarios": {
+		"Comentarios": {
+			"ajinomoto": 27,
+			"distribuidor": 5,
+			"total": 32
+		},
+		"Top": {
+			"Usuarios": {
+				"ajinomoto": [{
+					"departamento": "VENDAS",
+					"nome": "ALEX JULHO DE SOUSA",
+					"qtd": 20
+				}],
+				"distribuidor": [{
+					"departamento": null,
+					"nome": "aldyr mattos",
+					"qtd": 2
+				}]
+			}
+		}
+	},
+	"Curtidas": {
+		"Curtidas": {
+			"ajinomoto": 174,
+			"distribuidor": 45,
+			"total": 219
+		},
+		"Top": {
+			"Usuarios": {
+				"ajinomoto": [{
+					"departamento": "VENDAS",
+					"nome": "LINCON FELIX PORTA",
+					"qtd": 74
+				}],
+				"distribuidor": [{
+					"departamento": null,
+					"nome": "Luiz Henrique Neri de Vasconcelos",
+					"qtd": 20
+				}]
+			}
+		}
+	},
+	"Contatos": {
+		"Contatos": {
+			"ajinomoto": 0,
+			"distribuidor": 1,
+			"total": 1
+		}
+	},
+	"Solicitacoes": {
+		"Solicitacoes": {
+			"total": 0,
+			"Percentual": null,
+			"distribuidores": 0,
+			"TotalItems": 0
+		},
+		"Top": {
+			"Materiais": []
+		}
+	},
+	"Alertas": {
+		"Alertas": {
+			"ajinomoto": 0,
+			"distribuidor": 0,
+			"total": 0
+		},
+		"Top": {
+			"Usuarios": {
+				"ajinomoto": [],
+				"distribuidor": []
+			}
+		}
+	},
+	"BoasPraticas": {
+		"BoasPraticas": {
+			"ajinomoto": 0,
+			"distribuidor": 3,
+			"total": 3
+		},
+		"Top": {
+			"Usuarios": {
+				"ajinomoto": [],
+				"distribuidor": [{
+					"departamento": null,
+					"nome": "Fabio Maciel",
+					"qtd": 3
+				}]
+			}
+		}
+	},
+	"Engajados": {
+		"Top": {
+			"Usuarios": {
+				"ajinomoto": [{
+					"departamento": "VENDAS",
+					"nome": "LINCON FELIX PORTA",
+					"qtd": 74
+				}, {
+					"departamento": "VENDAS",
+					"nome": "ALEX JULHO DE SOUSA",
+					"qtd": 41
+				}, {
+					"departamento": "VENDAS",
+					"nome": "Alexandre Rocha",
+					"qtd": 13
+				}],
+				"distribuidor": [{
+					"departamento": null,
+					"nome": "Luiz Henrique Neri de Vasconcelos",
+					"qtd": 21
+				}, {
+					"departamento": "REGIONAL 2",
+					"nome": "DISTRINORTE DISTRIBUIDORA DE ALIMENTOS",
+					"qtd": 5
+				}, {
+					"departamento": null,
+					"nome": "José Murilo Rebouças França França ",
+					"qtd": 3
+				}]
+			}
+		}
+	},
+	"Promos": {
+		"Promos": {
+			"lojas": 229,
+			"distribuidores": {
+				"total": 23,
+				"distribuidores": [{
+					"distribuidor": "SOLUÇÃO",
+					"qtd": 24,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 9,
+						"lojas": [{
+							"loja": "SUPERMERCADO DA PRACA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMIX FEIRA DELICATESSEN EIRELI",
+							"qtd": 2
+						}, {
+							"loja": "CAXIANE MACHADO FERREIRA BOMFIM",
+							"qtd": 1
+						}, {
+							"loja": "MERCADAO DE CARNES SANTO ANTONIO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "GILBERTO DE JESUS SANTANA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO DO CEZAR LTDA - ME",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL OESTE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "VALQUIRIA PEREIRA DA SILVA GENEROS ALIME",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "PONTOS EXTRAS",
+						"qtd": 15,
+						"lojas": [{
+							"loja": "JOSE EVANILTON DA SILVA - ME",
+							"qtd": 1
+						}, {
+							"loja": "CENCOSUD BRASIL COMERCIAL LTDA",
+							"qtd": 2
+						}, {
+							"loja": "MERCADAO SUPERMERCADO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO MEGA DOCE PREO GOURMET LTD",
+							"qtd": 1
+						}, {
+							"loja": "CEREALISTA POPULAR LTDA",
+							"qtd": 3
+						}, {
+							"loja": "CEREALISTA SANTO ANTONIO DE JESUS LTDA -",
+							"qtd": 1
+						}, {
+							"loja": "MIRANDA E PEDREIRA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "DIST PROD ALIMENTICIOS SAO ROQUE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL OESTE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "DIST PROD ALIMENTICIOS SAO ROQUE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "JMM COMERCIO VAREJISTA DE ALIMENTOS EIRE",
+							"qtd": 1
+						}, {
+							"loja": "MELO CUNHA COMERCIO LTDA - EPP",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "CENTAURO SUL",
+					"qtd": 31,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 31,
+						"lojas": [{
+							"loja": "COLOMBO SUPERMERCADOS LTDA",
+							"qtd": 3
+						}, {
+							"loja": "FERNANDO SANTOS BOMFIM",
+							"qtd": 2
+						}, {
+							"loja": "LUCIMARA SANTOS DOREA",
+							"qtd": 2
+						}, {
+							"loja": "MERCADO SANTOS FIGUEIREDO LTDA.",
+							"qtd": 1
+						}, {
+							"loja": "M DOS SANTOS RODRIGUES COMERCIO",
+							"qtd": 1
+						}, {
+							"loja": "JOBSON SANTOS SILVA SUPERMERCADO",
+							"qtd": 1
+						}, {
+							"loja": "DALNORDE COMERCIO IMPORTACAO E EXPORTACA",
+							"qtd": 1
+						}, {
+							"loja": "DALNORDE COMERCIO IMPORTACAO E EXPORTACA",
+							"qtd": 1
+						}, {
+							"loja": "SOUTO DIAS COMERCIO IMPORTACAO E EXPORTA",
+							"qtd": 1
+						}, {
+							"loja": "VINNY COMERCIO VAREJISTA DE MERCADORIAS",
+							"qtd": 1
+						}, {
+							"loja": "J F DOS SANTOS EIRELI",
+							"qtd": 2
+						}, {
+							"loja": "MARIA CELIA F. LIMA",
+							"qtd": 1
+						}, {
+							"loja": "CANAA COMERCIO DE CARNES E CEREAIS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "FABIO LIMA QUIXABA",
+							"qtd": 1
+						}, {
+							"loja": "EUNASUPER COMERCIAL DE ALIMENTOS EIRELI",
+							"qtd": 1
+						}, {
+							"loja": "FIGUEIREDO CRUZ COMERCIAL LTDA",
+							"qtd": 1
+						}, {
+							"loja": "AFONSO & GIGANTE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "L B LEITAO E CIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "PASSOS & SANTANA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "G N SUPERMERCADO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "AVISTAO COMERCIO VAREJISTA DE GENEROS AL",
+							"qtd": 2
+						}, {
+							"loja": "B S SANTANA",
+							"qtd": 1
+						}, {
+							"loja": "V Q COELHO",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL DE ALIMENTOS LIVIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "ALMEIDA ANDRADE COMERCIO DE ALIMENTOS LT",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "REFIL",
+					"qtd": 11,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 11,
+						"lojas": [{
+							"loja": "SUPERMERCADO BETAO LTDA - ME",
+							"qtd": 1
+						}, {
+							"loja": "W S LEITE ME",
+							"qtd": 1
+						}, {
+							"loja": "CSM - COMERCIAL DE ALIMENTOS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "UESLEI RODRIGUES PACHECO E CIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "ANTONIO GERALDO DO COUTO",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO MAUGE EIRELI - ME",
+							"qtd": 1
+						}, {
+							"loja": "HIPER NORTE LTDA - ME",
+							"qtd": 1
+						}, {
+							"loja": "MARIA HELENA LEDO DAVID",
+							"qtd": 1
+						}, {
+							"loja": "BENEDITO CARLOS RIBEIRO E CIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "GOIA ALIMENTOS EIRELI",
+							"qtd": 1
+						}, {
+							"loja": "LUCIANO ALBERTO RIBEIRO & CIA LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "ASA BRANCA",
+					"qtd": 5,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 4,
+						"lojas": [{
+							"loja": "JMS COM. FRUTAS VERD. E CEREAIS EIRELI",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL JOMART LTDA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO SANTA RITA LTDA ME",
+							"qtd": 2
+						}]
+					}, {
+						"acao": "PONTOS EXTRAS",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "COMERCIAL JOMART LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "_Nenhum",
+					"qtd": 1,
+					"acoes": [{
+						"acao": "PONTOS EXTRAS",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "COMERCIAL CARAPA DE SECOS E MOLHADOS LTD",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "LITORAL COSTA MAR",
+					"qtd": 23,
+					"acoes": [{
+						"acao": "PONTOS EXTRAS",
+						"qtd": 13,
+						"lojas": [{
+							"loja": "SUPERMERCADO IRMAOS COSTA LTDA",
+							"qtd": 4
+						}, {
+							"loja": "MAIS ATACADO E MERCADO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO MINI PRECO DE HUMAITA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "CENTRAL COMERC IMPORT LTDA LOJA 03",
+							"qtd": 1
+						}, {
+							"loja": "CENTRAL COMERC IMPORT LTDA (LJ 02)",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO MINI PRECO DO RIO BRANCO LT",
+							"qtd": 1
+						}, {
+							"loja": "J M SIQUEIRA ALVES",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO VARANDAS LTDA LJ3",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO CUCA DO LEBLON LTDA L2",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO IRMAOS COSTA LTDA",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "BRINDE SORTEIO",
+						"qtd": 10,
+						"lojas": [{
+							"loja": "CENTRAL COMERC IMPORT LTDA (LJ 02)",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO PIRAMIDE LTDA LJ 01",
+							"qtd": 2
+						}, {
+							"loja": "SUPERMERCADO VARANDAS LTDA",
+							"qtd": 2
+						}, {
+							"loja": "SUPERMERCADO IRMAOS COSTA LTDA",
+							"qtd": 2
+						}, {
+							"loja": "SUPERMERCADO VARANDAS LTDA LJ1",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO TALISMA S VICENTE LTDA LJ2",
+							"qtd": 1
+						}, {
+							"loja": "C A NUNES SUPERMERCADO LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "TAKIGAWA JI PARANÁ",
+					"qtd": 54,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 33,
+						"lojas": [{
+							"loja": "COELHO E PEREIRA LTDA ME",
+							"qtd": 1
+						}, {
+							"loja": "A S AGUIAR E CIA",
+							"qtd": 1
+						}, {
+							"loja": "JOSE BATISTA DOS SANTOS ACOUGUE ME",
+							"qtd": 2
+						}, {
+							"loja": "SUPERMERCADO COMPRE BEM EIRELI",
+							"qtd": 1
+						}, {
+							"loja": "LOANDA COMERCIO DE GENEROS ALIMENTICIOS",
+							"qtd": 1
+						}, {
+							"loja": "ROGERIO NASCIMENTO DA SILVA ME",
+							"qtd": 4
+						}, {
+							"loja": "A. PUGAS COMERCIO DE ALIMENTOS LTDA",
+							"qtd": 2
+						}, {
+							"loja": "F. R. DE FREITAS E CIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "COOP AGROINDL DE ESPIGAO DO OESTE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "V A DE ARAUJO E CIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "FRIRON - COM DISTRIB E REPRES DE FRIOS R",
+							"qtd": 1
+						}, {
+							"loja": "RONDONIA COMERCIO DE EMBALAGENS EIRELI",
+							"qtd": 1
+						}, {
+							"loja": "A TOMASI E CIA LTDA ME",
+							"qtd": 1
+						}, {
+							"loja": "DISTRIBUIDORA EBENEZER LTDA - EPP",
+							"qtd": 1
+						}, {
+							"loja": "SUPERSUL COM DE ALIMENTOS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "J RODRIGUES E FILHOS SUPERMERCADO LTDA M",
+							"qtd": 1
+						}, {
+							"loja": "S CANDIDO PEREIRA ME",
+							"qtd": 1
+						}, {
+							"loja": "W C GENEROS ALIMENTICIOS LTDA ME",
+							"qtd": 2
+						}, {
+							"loja": "SP COMERCIO DE ALIMENTOS LTDA EPP",
+							"qtd": 2
+						}, {
+							"loja": "ATACADAO S A",
+							"qtd": 1
+						}, {
+							"loja": "SANDRA FURLAN ME",
+							"qtd": 1
+						}, {
+							"loja": "CANDIDO E SILVA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "H J COMERCIO DE GENEROS ALIMENTICIOS LTD",
+							"qtd": 2
+						}, {
+							"loja": "L C SERAFIM CIA LTDA MEE",
+							"qtd": 1
+						}, {
+							"loja": "V S PISSINATI ME",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "PONTOS EXTRAS",
+						"qtd": 19,
+						"lojas": [{
+							"loja": "ATACADAO S A",
+							"qtd": 1
+						}, {
+							"loja": "A C D A IMPORTACAO E EXPORTACAO LTDA",
+							"qtd": 2
+						}, {
+							"loja": "SUPERMERCADO MILAO LTDA EPP",
+							"qtd": 2
+						}, {
+							"loja": "SUPERMERCADO TAI LTDA",
+							"qtd": 1
+						}, {
+							"loja": "DUTRA EXP E IMPORTACAO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "A C D A IMPORTACAO E EXPORTACAO LTDA",
+							"qtd": 2
+						}, {
+							"loja": "M R GONCALVES COMERCIO EIRELI - ME",
+							"qtd": 1
+						}, {
+							"loja": "ATLANTA DIST DE GENEROS ALIMENTICIOS EIR",
+							"qtd": 1
+						}, {
+							"loja": "DISTRIBUIDORA DE ALIMENTOS PIARARA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "NOVO LAR IND. DE MOVEIS E COM. DE PROD.",
+							"qtd": 1
+						}, {
+							"loja": "RODRIGUES COM VAREJISTA DE PROD ALIM LTD",
+							"qtd": 1
+						}, {
+							"loja": "S MORUGAMPE COMERCIO VAREJISTA DE ALIM L",
+							"qtd": 1
+						}, {
+							"loja": "R B FIGUEIREDO SUPERMERCADOS ME",
+							"qtd": 1
+						}, {
+							"loja": "LOANDA DISTRIBUIDORA E TRANSPORTE LTDA E",
+							"qtd": 1
+						}, {
+							"loja": "OSWALDO MASSAMI AOYAMA ME",
+							"qtd": 1
+						}, {
+							"loja": "J P DA SILVA",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "COMPRE E GANHE",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "SUPERMERCADO F. NEVES EIRELI EPP",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "OUTROS",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "A C D A IMPORTACAO E EXPORTACAO LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "QUANTUM",
+					"qtd": 18,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 18,
+						"lojas": [{
+							"loja": "CASA CARNES ROTISS STA BARBARA",
+							"qtd": 1
+						}, {
+							"loja": "SILVESTRINI COMERCIO DE CARNES",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADOS CAROLINA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "MERCADO NED EIRELI LJ 1",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO DO CARMO LTDA",
+							"qtd": 2
+						}, {
+							"loja": "SUPERMERCADOS PRECO IDEAL LTDA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADOS PRECO IDEAL LTDA",
+							"qtd": 1
+						}, {
+							"loja": "EMPORIO VILLAMARIN LTDA-ME",
+							"qtd": 1
+						}, {
+							"loja": "VOVO HAIA M MERCADO E PADARIA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO HIGA E FILHOS LTD",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL DIA MAIS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL JARDIM BRASILIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "MINIMERCADO NESTAL LTDA",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIO DE ALIMENTOS 2 U EIRE",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO PONTO REAL LAGEAD",
+							"qtd": 1
+						}, {
+							"loja": "MERCADO SANTA SE EIRELI - EPP",
+							"qtd": 1
+						}, {
+							"loja": "SAULO WANDERLEY DIAS DOS S MIN",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "SAMAVI DISTRIBUICAO E TRANSPORTE LTDA",
+					"qtd": 16,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 9,
+						"lojas": [{
+							"loja": "A Q R BORGES E CIA LTDA - ME",
+							"qtd": 1
+						}, {
+							"loja": "C N FARIA - ME",
+							"qtd": 1
+						}, {
+							"loja": "A & C VAREJISTA DE CEREAIS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "M D DO NASCIMENTO",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL DE OLIVEIRA SANTOS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "GILSON FREIRE COELHO ME",
+							"qtd": 1
+						}, {
+							"loja": "OESTE COMERCIO VAREJISTA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "ADAO PEREIRA PINTO 03995345557",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO CATARINENSE",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "CONCURSO CULTURAL",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "C N FARIA - ME",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "COMPRE E GANHE",
+						"qtd": 6,
+						"lojas": [{
+							"loja": "AM COMERCIO DE PRODUTOS ALIMENTICIOS LTD",
+							"qtd": 1
+						}, {
+							"loja": "CARLITO DE SOUZA NOGUEIRA",
+							"qtd": 2
+						}, {
+							"loja": "COMERCIAL DE CEREAIS SILVA E SILVA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "ADRIANO LUIS DE A.BARROS",
+							"qtd": 1
+						}, {
+							"loja": "EMANUEL CHAVES PEREIRA NOVAES",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "COMERCIAL MARGUTTI",
+					"qtd": 19,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 19,
+						"lojas": [{
+							"loja": "NEIDSON AMANCIO DA SILVA",
+							"qtd": 1
+						}, {
+							"loja": "FERNANDA NETO LIMA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO O MOREIRAO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "IRAN DE SOUSA SILVA 01191694526",
+							"qtd": 1
+						}, {
+							"loja": "PADARIA E MERCEARIA SAO JOSE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "CORREIA & LAGO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "ADEMAR MORAIS DA SILVA & CIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "GRAZIELA ROCHA DE SOUSA",
+							"qtd": 1
+						}, {
+							"loja": "SIRLEIDE SILVA VIEIRA",
+							"qtd": 1
+						}, {
+							"loja": "COSME VENERAVEL DA SILVA",
+							"qtd": 1
+						}, {
+							"loja": "WELLINGTON DOS SANTOS SOUZA 00090070593",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADOS M.M. CENTER LTDA",
+							"qtd": 1
+						}, {
+							"loja": "MINIPRECO SUPERMERCADO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "CLAUDIA SOUSA ROCHA SANTOS EIRELI",
+							"qtd": 1
+						}, {
+							"loja": "HILTON AYRES MORAES AZEVEDO",
+							"qtd": 1
+						}, {
+							"loja": "MARINALVA MOITINHO SANTOS",
+							"qtd": 1
+						}, {
+							"loja": "MARIO HENRIQUE BRANDAO",
+							"qtd": 1
+						}, {
+							"loja": "JAKSON TIAGO NEVES OLIVEIRA",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIO DE PRODUTOS ALIMENTICIOS PEREIR",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "HAS",
+					"qtd": 3,
+					"acoes": [{
+						"acao": "PONTOS EXTRAS",
+						"qtd": 2,
+						"lojas": [{
+							"loja": "CENTRO OESTE COMERCIAL DE ALIMENTOS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "CENTRO OESTE COMERCIAL DE ALIMENTOS LTDA",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "OUTROS",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "C.P. DE OLIVEIRA MACEDO COMERCIAL DE ALI",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "CHUÁ JUIZ DE FORA",
+					"qtd": 2,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "SUPERMERCADO VOVO NAIR LTDA.",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "OUTROS",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "SUPERMERCADO BAHAMAS LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "PLANETA NATURAL",
+					"qtd": 2,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 2,
+						"lojas": [{
+							"loja": "NOVO MIX ATACADO DE ALIMENTOS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "CASCALHEIRA COMERCIO DE ALIMENTOS LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "LOPES",
+					"qtd": 35,
+					"acoes": [{
+						"acao": "COMPRE E GANHE",
+						"qtd": 3,
+						"lojas": [{
+							"loja": "RUFINO COMERCIO E INDUSTRIA DE ALIMENTOS",
+							"qtd": 2
+						}, {
+							"loja": "RUFINO COMERCIO E INDUSTRIA DE ALIMENTOS",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "BRINDE SORTEIO",
+						"qtd": 32,
+						"lojas": [{
+							"loja": "R B MORAES MINIMERCADO ME",
+							"qtd": 1
+						}, {
+							"loja": "CDL CENTRO DE DIST E LOGISTICA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "AM COMERCIO DE PRODUTOS ALIMENTICIOS",
+							"qtd": 2
+						}, {
+							"loja": "OZIEL BATISTA DIAS",
+							"qtd": 1
+						}, {
+							"loja": "R R OLIVEIRA",
+							"qtd": 1
+						}, {
+							"loja": "MARIA A C P ANDRIOLA",
+							"qtd": 1
+						}, {
+							"loja": "MAURICIO SOUZA DE ARAUJO",
+							"qtd": 2
+						}, {
+							"loja": "QUEIROZ E FERREIRA LTDA - ME",
+							"qtd": 1
+						}, {
+							"loja": "ENOS SANCHES DIAS",
+							"qtd": 1
+						}, {
+							"loja": "M DAS C O DE MENEZES EIRELI EPP",
+							"qtd": 1
+						}, {
+							"loja": "F M DA COSTA COMERCIAL",
+							"qtd": 1
+						}, {
+							"loja": "MANOEL MOREIRA DE VASCONCELOS",
+							"qtd": 1
+						}, {
+							"loja": "JOSE EDIVAL DE LIMA",
+							"qtd": 1
+						}, {
+							"loja": "MARCILENE MACEDO LUCAS",
+							"qtd": 1
+						}, {
+							"loja": "FRANCISCO EDILSON TERCEIRO FROTA",
+							"qtd": 1
+						}, {
+							"loja": "A P DA SILVA BUENO & CIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "BARJA E QUEIROZ COM DE PROD ALIM LTDA -",
+							"qtd": 1
+						}, {
+							"loja": "ANTONIO DO CARMO CAVALCANTE ME",
+							"qtd": 1
+						}, {
+							"loja": "JAIME PEREIRA DO NASCIMENTO",
+							"qtd": 1
+						}, {
+							"loja": "R E ALVES DUARTE",
+							"qtd": 1
+						}, {
+							"loja": "D F DA COSTA",
+							"qtd": 1
+						}, {
+							"loja": "ELISANGELA OLIVEIRA DA SILVA PEREIRA",
+							"qtd": 1
+						}, {
+							"loja": "CAMILA CAROLINA DE ARAUJO SOUZA",
+							"qtd": 1
+						}, {
+							"loja": "JOSE OZANAM DE SOUZA",
+							"qtd": 1
+						}, {
+							"loja": "I F DA SILVA SOUZA",
+							"qtd": 1
+						}, {
+							"loja": "ARIMAR JOSE DA COSTA & CIA LTDA",
+							"qtd": 2
+						}, {
+							"loja": "L B DOS SANTOS ME",
+							"qtd": 1
+						}, {
+							"loja": "J S SANTANA JUNIOR ME",
+							"qtd": 1
+						}, {
+							"loja": "J F DA SILVA COMERCIO",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "SIGMA PRODUTOS ALIMENTÍCIOS LTDA",
+					"qtd": 10,
+					"acoes": [{
+						"acao": "PONTOS EXTRAS",
+						"qtd": 8,
+						"lojas": [{
+							"loja": "K.R. LOPES DE CASTRO & CIA LTDA EPP",
+							"qtd": 1
+						}, {
+							"loja": "PASQUALOTTO E PASQUALOTTO LTDA",
+							"qtd": 1
+						}, {
+							"loja": "COMERCIAL CARAPA DE SECOS E MOLHADOS LTD",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO MONTE REAL LTDA EPP",
+							"qtd": 1
+						}, {
+							"loja": "S JOSE BARRETO ME",
+							"qtd": 1
+						}, {
+							"loja": "COM DE ALIMENTOS DIAMANTE AZUL LTDA",
+							"qtd": 1
+						}, {
+							"loja": "TROPICAL SUPERMERCADOS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "J C MARTINS & CIA LTDA",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "DEGUSTAÇÃO",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "K.R. LOPES DE CASTRO & CIA LTDA EPP",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "BRINDE SORTEIO",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "IRMAOS DALMOLIN GENEROS ALIMENT LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "HV DISTRIBUIDORA",
+					"qtd": 2,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 2,
+						"lojas": [{
+							"loja": "M A PACHECO MERCEARIA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "MERCEARIA J.M DE CONQUISTA LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "STOQUE UBERLÂNDIA",
+					"qtd": 2,
+					"acoes": [{
+						"acao": "PONTOS EXTRAS",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "SUPERMERCADO BAHAMAS S/A",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "BRINDE SORTEIO",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "MN SUPERMECADOS LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "IKEDA JUNQUEIROPOLIS",
+					"qtd": 2,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 2,
+						"lojas": [{
+							"loja": "SUPERMERCADO NAGAI DE PRUDENTE LTDA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO NAGAI DE PRUDENTE LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "DRS",
+					"qtd": 4,
+					"acoes": [{
+						"acao": "CONCURSO CULTURAL",
+						"qtd": 2,
+						"lojas": [{
+							"loja": "COOPERATIVA LANGUIRU LTDA",
+							"qtd": 2
+						}]
+					}, {
+						"acao": "BRINDE SORTEIO",
+						"qtd": 2,
+						"lojas": [{
+							"loja": "BITTENCOURT & VIANA LTDA",
+							"qtd": 1
+						}, {
+							"loja": "DARLI SILVEIRA LEMOS",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "EBD PETROLINA",
+					"qtd": 1,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "ANTONIO CARLOS DE SOUZA AMORIM ME",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "ADA MOREIRA",
+					"qtd": 1,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "SUPERMERCADO UNE LTDA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "DVL",
+					"qtd": 2,
+					"acoes": [{
+						"acao": "PONTOS EXTRAS",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "COMERCIO E DISTRIBUICAO SALES",
+							"qtd": 1
+						}]
+					}, {
+						"acao": "BRINDE SORTEIO",
+						"qtd": 1,
+						"lojas": [{
+							"loja": "COMERCIAL.D.ALM.NOGUEIRA E SILVA",
+							"qtd": 1
+						}]
+					}]
+				}, {
+					"distribuidor": "LEBAM",
+					"qtd": 4,
+					"acoes": [{
+						"acao": "BRINDE SORTEIO",
+						"qtd": 4,
+						"lojas": [{
+							"loja": "J. P. COMERCIO DE ALIMENTOS LTDA",
+							"qtd": 1
+						}, {
+							"loja": "SUPERMERCADO SERVE LAR LTDA",
+							"qtd": 1
+						}, {
+							"loja": "EMBALE EMBALAGENS DE PLASTICO E PAPEL LT",
+							"qtd": 1
+						}, {
+							"loja": "MATHEUS COMERC DE PRODUTOS ALIM LTDA ME",
+							"qtd": 1
+						}]
+					}]
+				}]
+			},
+			"acoes": [{
+				"acao": "BRINDE SORTEIO",
+				"qtd": 194
+			}, {
+				"acao": "PONTOS EXTRAS",
+				"qtd": 61
+			}, {
+				"acao": "COMPRE E GANHE",
+				"qtd": 10
+			}, {
+				"acao": "CONCURSO CULTURAL",
+				"qtd": 3
+			}, {
+				"acao": "OUTROS",
+				"qtd": 3
+			}, {
+				"acao": "DEGUSTAÇÃO",
+				"qtd": 1
+			}],
+			"brindes": [{
+				"brinde": "Microondas",
+				"qtd": 45
+			}, {
+				"brinde": "Geladeira",
+				"qtd": 36
+			}, {
+				"brinde": "Bicicleta",
+				"qtd": 13
+			}, {
+				"brinde": "Outros",
+				"qtd": 51
+			}, {
+				"brinde": null,
+				"qtd": 78
+			}, {
+				"brinde": "Vale – Supermercado",
+				"qtd": 32
+			}, {
+				"brinde": "Fogão",
+				"qtd": 16
+			}, {
+				"brinde": "Pipoqueira",
+				"qtd": 1
+			}],
+			"produtos": [{
+				"produto": "MID® REFRESCO",
+				"qtd": 145
+			}, {
+				"produto": "Tempero SAZÓN®",
+				"qtd": 115
+			}, {
+				"produto": "SABOR A MI®",
+				"qtd": 45
+			}, {
+				"produto": "Caldo SAZÓN®",
+				"qtd": 46
+			}, {
+				"produto": "AJI-NO-MOTO® FS",
+				"qtd": 1
+			}, {
+				"produto": "AZEITE DE OLIVA TERRANO™ ",
+				"qtd": 3
+			}, {
+				"produto": "AZEITE DE OLIVA TERRANO™ ",
+				"qtd": 2
+			}, {
+				"produto": "SABOR A MI® FS",
+				"qtd": 2
+			}, {
+				"produto": "AJI-NO-MOTO®",
+				"qtd": 21
+			}, {
+				"produto": "AJI-SAL®",
+				"qtd": 7
+			}, {
+				"produto": "FIT®",
+				"qtd": 19
+			}, {
+				"produto": "VONO® REGULAR",
+				"qtd": 6
+			}, {
+				"produto": "VONO® CHEF",
+				"qtd": 6
+			}, {
+				"produto": "SATIS!® TEMPERA E DÁ LIGA",
+				"qtd": 2
+			}, {
+				"produto": "SATIS!® TEMPERA E DÁ MOLHO",
+				"qtd": 1
+			}, {
+				"produto": "SATIS!® TEMPERA E EMPANA",
+				"qtd": 2
+			}, {
+				"produto": "SATIS!® Menu",
+				"qtd": 2
+			}, {
+				"produto": "SATIS!® Molho Shoyu",
+				"qtd": 1
+			}, {
+				"produto": "AJI-SAL® CHURRASCO FS",
+				"qtd": 3
+			}, {
+				"produto": "CALDO SAZÓN® PROFISSIONAL",
+				"qtd": 1
+			}, {
+				"produto": "SUPER 5",
+				"qtd": 9
+			}, {
+				"produto": "TEMPERO SAZÓN® PROFISSIONAL",
+				"qtd": 1
+			}, {
+				"produto": "RECEITA DE CASA®",
+				"qtd": 2
+			}],
+			"acumulado": 1713
+		},
+		"Top": {
+			"distribuidores": {
+				"mes": [{
+					"distribuidor": "TAKIGAWA JI PARANÁ",
+					"qtd": 54
+				}, {
+					"distribuidor": "LOPES",
+					"qtd": 35
+				}, {
+					"distribuidor": "CENTAURO SUL",
+					"qtd": 31
+				}, {
+					"distribuidor": "SOLUÇÃO",
+					"qtd": 24
+				}, {
+					"distribuidor": "LITORAL COSTA MAR",
+					"qtd": 23
+				}, {
+					"distribuidor": "COMERCIAL MARGUTTI",
+					"qtd": 19
+				}, {
+					"distribuidor": "QUANTUM",
+					"qtd": 18
+				}, {
+					"distribuidor": "SAMAVI DISTRIBUICAO E TRANSPORTE LTDA",
+					"qtd": 16
+				}, {
+					"distribuidor": "REFIL",
+					"qtd": 11
+				}, {
+					"distribuidor": "SIGMA PRODUTOS ALIMENTÍCIOS LTDA",
+					"qtd": 10
+				}],
+				"ano": [{
+					"distribuidor": "QUANTUM",
+					"qtd": 147
+				}, {
+					"distribuidor": "LOPES",
+					"qtd": 145
+				}, {
+					"distribuidor": "CENTAURO SUL",
+					"qtd": 132
+				}, {
+					"distribuidor": "GRIFOS COMERCIO DE ALIMENTOS EIRELI",
+					"qtd": 120
+				}, {
+					"distribuidor": "TAKIGAWA JI PARANÁ",
+					"qtd": 110
+				}, {
+					"distribuidor": "SOLUÇÃO",
+					"qtd": 106
+				}, {
+					"distribuidor": "REFIL",
+					"qtd": 88
+				}, {
+					"distribuidor": "LITORAL COSTA MAR",
+					"qtd": 86
+				}, {
+					"distribuidor": "DISPLOKI",
+					"qtd": 85
+				}, {
+					"distribuidor": "SAMAVI DISTRIBUICAO E TRANSPORTE LTDA",
+					"qtd": 75
+				}]
+			}
+		}
+	},
+	"Produtos": {
+		"Produtos": [{
+			"produto": "Caldo SAZÓN®",
+			"qtd": 221,
+			"downloads": 83
+		}, {
+			"produto": "AZEITE DE OLIVA TERRANO™ ",
+			"qtd": 56,
+			"downloads": 5
+		}, {
+			"produto": "VONO® REGULAR",
+			"qtd": 230,
+			"downloads": 95
+		}, {
+			"produto": "AJI-NO-MOTO®",
+			"qtd": 65,
+			"downloads": 3
+		}, {
+			"produto": "Tempero SAZÓN®",
+			"qtd": 354,
+			"downloads": 125
+		}, {
+			"produto": "SABOR A MI®",
+			"qtd": 97,
+			"downloads": 1
+		}, {
+			"produto": "SABOR A MI® FS",
+			"qtd": 25,
+			"downloads": 9
+		}, {
+			"produto": "CALDO SAZÓN® PROFISSIONAL",
+			"qtd": 23,
+			"downloads": 4
+		}, {
+			"produto": "TEMPERO SAZÓN® PROFISSIONAL",
+			"qtd": 26,
+			"downloads": 7
+		}, {
+			"produto": "SATIS!® Molho Shoyu",
+			"qtd": 36,
+			"downloads": 5
+		}, {
+			"produto": "SATIS!® TEMPERA E DÁ LIGA",
+			"qtd": 22,
+			"downloads": 0
+		}, {
+			"produto": "HONDASHI®",
+			"qtd": 45,
+			"downloads": 3
+		}, {
+			"produto": "AJI-SAL®",
+			"qtd": 40,
+			"downloads": 1
+		}, {
+			"produto": "RECEITA DE CASA®",
+			"qtd": 47,
+			"downloads": 1
+		}, {
+			"produto": "SATIS!® TEMPERA E EMPANA",
+			"qtd": 43,
+			"downloads": 2
+		}, {
+			"produto": "AZEITE DE OLIVA TERRANO™ ",
+			"qtd": 33,
+			"downloads": 3
+		}, {
+			"produto": "VONO® CHEF",
+			"qtd": 71,
+			"downloads": 20
+		}, {
+			"produto": "MID® REFRESCO",
+			"qtd": 408,
+			"downloads": 171
+		}, {
+			"produto": "FIT®",
+			"qtd": 142,
+			"downloads": 66
+		}, {
+			"produto": "BASE PARA MOLHOS AJINOMOTO®",
+			"qtd": 14,
+			"downloads": 1
+		}, {
+			"produto": "PURÊ DE BATATAS FS",
+			"qtd": 18,
+			"downloads": 2
+		}, {
+			"produto": "CREME DE CEBOLA FS",
+			"qtd": 13,
+			"downloads": 0
+		}, {
+			"produto": "O AMACIANTE DE CARNE AJINOMOTO®",
+			"qtd": 14,
+			"downloads": 1
+		}, {
+			"produto": "AJI-NO-MOTO® FS",
+			"qtd": 15,
+			"downloads": 1
+		}, {
+			"produto": "AJI-SAL® FS",
+			"qtd": 11,
+			"downloads": 0
+		}, {
+			"produto": "AJI-SAL® CHURRASCO FS",
+			"qtd": 12,
+			"downloads": 0
+		}, {
+			"produto": "HONDASHI® FS",
+			"qtd": 13,
+			"downloads": 0
+		}, {
+			"produto": "ATOMATADOS AJINOMOTO® ",
+			"qtd": 14,
+			"downloads": 2
+		}, {
+			"produto": "MOLHO SHOYU SATIS!® PROFESSIONAL",
+			"qtd": 11,
+			"downloads": 0
+		}, {
+			"produto": "SATIS!® TEMPERA E DÁ MOLHO",
+			"qtd": 29,
+			"downloads": 0
+		}],
+		"Top": {
+			"ajinomoto": [{
+				"produto": "Tempero SAZÓN®",
+				"qtd": 16,
+				"downloads": 6
+			}, {
+				"produto": "MID® REFRESCO",
+				"qtd": 11,
+				"downloads": 0
+			}, {
+				"produto": "VONO® REGULAR",
+				"qtd": 9,
+				"downloads": 0
+			}, {
+				"produto": "AJI-NO-MOTO®",
+				"qtd": 9,
+				"downloads": 1
+			}, {
+				"produto": "VONO® CHEF",
+				"qtd": 9,
+				"downloads": 1
+			}],
+			"distribuidor": [{
+				"produto": "MID® REFRESCO",
+				"qtd": 397,
+				"downloads": 171
+			}, {
+				"produto": "Tempero SAZÓN®",
+				"qtd": 338,
+				"downloads": 119
+			}, {
+				"produto": "VONO® REGULAR",
+				"qtd": 221,
+				"downloads": 95
+			}, {
+				"produto": "Caldo SAZÓN®",
+				"qtd": 213,
+				"downloads": 83
+			}, {
+				"produto": "FIT®",
+				"qtd": 134,
+				"downloads": 65
+			}],
+			"total": [{
+				"produto": "MID® REFRESCO",
+				"qtd": 408,
+				"downloads": 171
+			}, {
+				"produto": "Tempero SAZÓN®",
+				"qtd": 354,
+				"downloads": 125
+			}, {
+				"produto": "VONO® REGULAR",
+				"qtd": 230,
+				"downloads": 95
+			}, {
+				"produto": "Caldo SAZÓN®",
+				"qtd": 221,
+				"downloads": 83
+			}, {
+				"produto": "FIT®",
+				"qtd": 142,
+				"downloads": 66
+			}]
+		}
+	},
+	"Metas": {
+		"total": 1126,
+		"Top": [{
+			"grupo": "MID",
+			"qtd": 136
+		}, {
+			"grupo": "IDEA",
+			"qtd": 133
+		}, {
+			"grupo": "Sazon",
+			"qtd": 117
+		}]
+	},
+	"Planogramas": {
+		"Top": [{
+			"produto": "MID® REFRESCO",
+			"qtd": 169,
+			"downloads": 169
+		}, {
+			"produto": "Tempero SAZÓN®",
+			"qtd": 116,
+			"downloads": 116
+		}, {
+			"produto": "VONO® REGULAR",
+			"qtd": 83,
+			"downloads": 83
+		}]
+	},
+	"Conteudos": {
+		"TotalAjinomoto": 26,
+		"Conteudos": [{
+			"conteudo": "Conheça as novas embalagens de AJI-NO-MOTO®",
+			"qtd": 23,
+			"downloads": 0
+		}, {
+			"conteudo": "RANKING PROGRAMA IDEA FY19",
+			"qtd": 82,
+			"downloads": 0
+		}, {
+			"conteudo": "Apresentação Marketing Varejo",
+			"qtd": 17,
+			"downloads": 0
+		}, {
+			"conteudo": "PROJETOS FY2020",
+			"qtd": 47,
+			"downloads": 0
+		}, {
+			"conteudo": "Apresentação Trade",
+			"qtd": 126,
+			"downloads": 0
+		}, {
+			"conteudo": "Encarte Dia das Mães Sazón",
+			"qtd": 15,
+			"downloads": 0
+		}, {
+			"conteudo": "Arte promoção facas Sazón",
+			"qtd": 37,
+			"downloads": 0
+		}, {
+			"conteudo": "Comportamento de compra se transforma com a pandemia",
+			"qtd": 12,
+			"downloads": 0
+		}, {
+			"conteudo": "Estratégia promocional deve mudar nos supermercados",
+			"qtd": 23,
+			"downloads": 0
+		}, {
+			"conteudo": "RANKING FATURAMENTO LÍQUIDO FY19",
+			"qtd": 534,
+			"downloads": 0
+		}, {
+			"conteudo": "Saiba o que jovens adultos estão exigindo das marcas",
+			"qtd": 20,
+			"downloads": 0
+		}, {
+			"conteudo": "CONVENÇÃO AJINOMOTO 2020",
+			"qtd": 127,
+			"downloads": 0
+		}, {
+			"conteudo": "PALESTRA",
+			"qtd": 49,
+			"downloads": 0
+		}, {
+			"conteudo": "HÁBITOS DE CONSUMO",
+			"qtd": 27,
+			"downloads": 0
+		}, {
+			"conteudo": "Apresentação Vendas Varejo",
+			"qtd": 14,
+			"downloads": 0
+		}, {
+			"conteudo": "Campanha Missão 2020 FY2019",
+			"qtd": 7,
+			"downloads": 0
+		}, {
+			"conteudo": "Apresentação Programa IDEA",
+			"qtd": 5,
+			"downloads": 0
+		}, {
+			"conteudo": "Campanha MIRE",
+			"qtd": 4,
+			"downloads": 0
+		}, {
+			"conteudo": "Campanha Expert PDV Ajinomoto FY2019",
+			"qtd": 3,
+			"downloads": 0
+		}, {
+			"conteudo": "Apresentação Marketing Food Service",
+			"qtd": 13,
+			"downloads": 0
+		}, {
+			"conteudo": "Live Ajinomoto Food Service - O Novo Normal",
+			"qtd": 5,
+			"downloads": 0
+		}, {
+			"conteudo": "CAMPANHA SUPER PRÊMIO AJINOMOTO",
+			"qtd": 74,
+			"downloads": 0
+		}, {
+			"conteudo": "PANDEMIA ACELERA AÇÕES DE DIGITALIZAÇÃO",
+			"qtd": 30,
+			"downloads": 0
+		}, {
+			"conteudo": "Nas empresas familiares, experiência dos fundadores é fundamental neste momento",
+			"qtd": 22,
+			"downloads": 0
+		}, {
+			"conteudo": "Banner - Pack de Aji-Sal ",
+			"qtd": 35,
+			"downloads": 0
+		}, {
+			"conteudo": "E-commerce Fatura R$ 9,4 Bi, Diz Compre&Confie",
+			"qtd": 4,
+			"downloads": 0
+		}, {
+			"conteudo": "Você conhece a plataforma Mangos? ",
+			"qtd": 9,
+			"downloads": 0
+		}]
+	}
+}
