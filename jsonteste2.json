@@ -3,19 +3,19 @@
 		"Ativos": [{
 			"Data": "2020-05-01",
 			"Type": "Ajinomoto",
-			"qtd": 10
+			"qtd": 548
 		}, {
 			"Data": "2020-05-01",
 			"Type": "Distribuidor",
-			"qtd": 21
+			"qtd": 362
 		}, {
 			"Data": "2020-06-01",
 			"Type": "Ajinomoto",
-			"qtd": 25
+			"qtd": 1025
 		}, {
 			"Data": "2020-06-01",
 			"Type": "Distribuidor",
-			"qtd": 12
+			"qtd": 2015
 		}]
 	}
 }
