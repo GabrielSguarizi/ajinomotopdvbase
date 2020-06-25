@@ -1,0 +1,11 @@
+{
+	"Usuarios": {
+		"Ativos": [{
+			"Type": "Ajinomoto",
+			"qtd": 1
+		}, {
+			"Type": "Distribuidor",
+			"qtd": 1
+		}]
+	}
+}
