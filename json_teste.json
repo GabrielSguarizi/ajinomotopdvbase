@@ -1,11 +1,24 @@
 {
+  "05/2020": {
 	"Usuarios": {
 		"Ativos": [{
 			"Type": "Ajinomoto",
-			"qtd": 1
+			"qtd": 10
 		}, {
 			"Type": "Distribuidor",
-			"qtd": 1
+			"qtd": 21
 		}]
 	}
+  },
+"06/2020": {
+	"Usuarios": {
+		"Ativos": [{
+			"Type": "Ajinomoto",
+			"qtd": 25
+		}, {
+			"Type": "Distribuidor",
+			"qtd": 12
+		}]
+	}
+  }	
 }
