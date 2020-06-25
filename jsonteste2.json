@@ -1,19 +1,19 @@
 {
 	"Usuarios": {
 		"Ativos": [{
-			"Data": "05/2020",
+			"Data": "2020/05",
 			"Type": "Ajinomoto",
 			"qtd": 10
 		}, {
-			"Data": "05/2020",
+			"Data": "2020/05",
 			"Type": "Distribuidor",
 			"qtd": 21
 		}, {
-			"Data": "06/2020",
+			"Data": "2020/06",
 			"Type": "Ajinomoto",
 			"qtd": 25
 		}, {
-			"Data": "06/2020",
+			"Data": "2020/06",
 			"Type": "Distribuidor",
 			"qtd": 12
 		}]
